@@ -11,6 +11,7 @@ namespace RazorPagesIntro.Pages
         public void OnGet()
         {
             Message += $" Server time is { DateTime.Now }";
+            Console.WriteLine("Hello");
         }
     }
 }
