@@ -1,6 +1,5 @@
 /Users/mars/Desktop/GA/dotNET/myWebApp/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/mars/Desktop/GA/dotNET/myWebApp/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/mars/Desktop/GA/dotNET/myWebApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/mars/Desktop/GA/dotNET/myWebApp/bin/Debug/netcoreapp3.1/myWebApp.deps.json
 /Users/mars/Desktop/GA/dotNET/myWebApp/bin/Debug/netcoreapp3.1/myWebApp.runtimeconfig.json
 /Users/mars/Desktop/GA/dotNET/myWebApp/bin/Debug/netcoreapp3.1/myWebApp.runtimeconfig.dev.json
